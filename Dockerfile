@@ -1,4 +1,4 @@
-FROM jlesage/baseimage-gui:debian-11
+FROM jlesage/baseimage-gui:ubuntu-22.04
 
 ENV APP_NAME="iDRAC 6"  \
     IDRAC_PORT=443      \
